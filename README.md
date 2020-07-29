@@ -20,4 +20,6 @@ You may have seen some of my stuff at [SitePoint.com](https://www.sitepoint.com/
 
 I'm available for hire, ideally remote full-stack web development with Node.js, Deno, databases, WebSockets, HTML, CSS, JavaScript, etc. I'll do PHP too, but you'd need to ask really nicely.
 
-👈 Here are my contact details.
+👈 Here are my contact details...
+
+...unless you're on a mobile device, and they're up there ☝️
