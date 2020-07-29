@@ -1,6 +1,6 @@
 # Hello! I'm Craig Buckler 👋
 
-You may have seen some of my stuff at [SitePoint.com](https://www.sitepoint.com/author/craig-buckler) and a few othe places.
+You may have seen some of my stuff at [SitePoint.com](https://www.sitepoint.com/author/craig-buckler) and a few other places.
 
 
 ## Current projects 🚧
@@ -11,13 +11,13 @@ You may have seen some of my stuff at [SitePoint.com](https://www.sitepoint.com/
 
 📷 [progressive-image.js](https://github.com/craigbuckler/progressive-image.js) receives updates now and again.
 
-🐧 Writing a complete guide to the Windows Subsystem for Linux (WSL2) for SitePoint.com.
+🐧 I'm writing a complete guide to the Windows Subsystem for Linux (WSL2) for SitePoint.com.
 
 💡 Also trying to learn too many things at once, but [11ty](https://www.11ty.dev/) is high up on the list.
 
 
 ## Contact me 📫
 
-I'm available for hire, ideally remote full-stack web development with Node.js, Deno, databases, WebSockets, HTML, CSS, JavaScript, etc. I'll do PHP if you absolutely insist.
+I'm available for hire, ideally remote full-stack web development with Node.js, Deno, databases, WebSockets, HTML, CSS, JavaScript, etc. I'll do PHP too, but you'd need to ask really nicely.
 
-You can find my contact details over there... 👈
+👈 Here are my contact details.
