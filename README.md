@@ -26,14 +26,14 @@ You may have seen some of my stuff at [SitePoint.com](https://www.sitepoint.com/
 
 <a href="https://github.com/craigbuckler/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigbuckler&hide=asp&layout=compac" alt="top languages - yeah, including HTML" align="right" /></a>
 
-## Contact me 📫
+## 📫 Contact me
 
-✨ *I'm available for hire!* ✨
+✨ [***I'm available for hire!***](https://craigbuckler.com/) ✨
 
 🤹 Full-stack web development, product design, or technology mentoring. Key skills include HTML, CSS, JavaScript, progressive enhancement, progressive web apps, accessibility, Node.js, Deno, various databases, WebSockets, and more. I'll do PHP too, but you'd need to ask really nicely.
 
 👈 Here are my contact details...
 
-...unless you're on a mobile device, and they're up there ☝️
+...unless you're on a small screen, and they're up there ☝️
 
 or [contact me on Twitter @craigbuckler 💬](https://twitter.com/craigbuckler)
