@@ -6,12 +6,13 @@ I'm a freelance UK web developer and writer.
 
 You may have seen some of my stuff at [SitePoint.com](https://www.sitepoint.com/author/craig-buckler) and a few other places.
 
+---
 
 ## 🚧 Current projects
 
 <a href="https://github.com/craigbuckler/progressive-image.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=craigbuckler&repo=progressive-image.js" alt="progressive-image.js statistics" align="right"></a>
 
-🐳 [**Docker for Web Developers** book and video course](https://dockerwebdev.com/) which is for anyone who thinks Docker is complex and isn't for them.
+🐳 My [**Docker for Web Developers** book and video course](https://dockerwebdev.com/) is for anyone who thinks Docker is too complex and isn't for them.
 
 🦕 [**A first look at Deno** presentation](https://conference.techexeter.uk/speakers/craig-buckler.html) to be shown at the [TechExeter conference on 9 and 10 September 2020](https://conference.techexeter.uk/).
 
@@ -23,8 +24,9 @@ You may have seen some of my stuff at [SitePoint.com](https://www.sitepoint.com/
 
 🕹️ If you'd like a quick blast, play my [multi-device **Asteroids** game](https://craigbuckler.com/asteroids/) and [view it's repo](https://github.com/craigbuckler/asteroids).
 
-[💙 Please sponsor me if you find anything useful](https://github.com/sponsors/craigbuckler)
+[💙 Please sponsor me if you find anything useful.](https://github.com/sponsors/craigbuckler)
 
+---
 
 <a href="https://github.com/craigbuckler/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigbuckler&hide=asp&layout=compac" alt="top languages - yeah, including HTML" align="right" /></a>
 
@@ -32,7 +34,7 @@ You may have seen some of my stuff at [SitePoint.com](https://www.sitepoint.com/
 
 👈 Here are my contact details...\
 ...unless you're on a small screen, and they're up there ☝️\
-or [contact me on Twitter @craigbuckler 💬](https://twitter.com/craigbuckler)
+or [💬 contact me on Twitter @craigbuckler](https://twitter.com/craigbuckler)
 
-🤹 Full-stack web development, product design, or technology mentoring. Skills include HTML, CSS, JavaScript, performance, progressive enhancement, progressive web apps, accessibility, Node.js, Deno, WebSockets, various databases, and more. I'll do PHP too, but you'd need to ask really nicely.
+🤹 Full-stack web development, product design, training, mentoring, or writing. Skills include HTML, CSS, JavaScript, performance, progressive enhancement, progressive web apps, accessibility, Node.js, Deno, WebSockets, various databases, and more. I'll do PHP too, but you'd need to ask really nicely.
 
