@@ -28,7 +28,7 @@ You may have seen some of my stuff at [SitePoint.com](https://www.sitepoint.com/
 
 <a href="https://github.com/craigbuckler/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigbuckler&hide=asp&layout=compac" alt="top languages - yeah, including HTML" align="right" /></a>
 
-[## ✨ I'm available for hire! ✨](https://craigbuckler.com/)
+## [✨ I'm available for hire! ✨](https://craigbuckler.com/)
 
 👈 Here are my contact details...\
 ...unless you're on a small screen, and they're up there ☝️\
