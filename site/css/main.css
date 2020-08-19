@@ -21,8 +21,11 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
+body, input, button {
   font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+}
+
+body {
   color: #555b6e;
   background-color: #faf9f9;
 }
@@ -125,6 +128,51 @@ li span, li p {
 
 h3 span {
   font-size: 0.5em;
+}
+
+#subscribe {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4em;
+  margin: 0.5em 0 2em 0;
+}
+
+label {
+  font-size: 1em;
+  flex: 2 0 100%;
+  user-select: none;
+}
+
+input, button {
+  flex: 1 0 100%;
+  width: 15em;
+  max-width: 100%;
+  font-size: 1em;
+  padding: 0.2em 0.4em;
+  color: #333;
+  background-color: transparent;
+  border: 3px solid #ffd6ba;
+  transition: all 0.3s linear;
+}
+
+input:focus {
+  background-color: #fff;
+  border-color: #fff;
+}
+
+button {
+  width: auto;
+  padding: 0.2em 1em;
+  cursor: pointer;
+  background-color: #ffd6ba;
+  border-color: #ffd6ba;
+}
+
+button:focus, button:hover {
+  background-color: #fff;
+  border-color: #fff;
 }
 
 a:link, a:visited {
@@ -252,6 +300,10 @@ main div:nth-child(odd) h2 {
 
   main div:nth-child(even) {
     clip-path: polygon(0% 0%, 100% 15%, 100% 85%, 0% 100%);
+  }
+
+  label, input, button {
+    flex: 1 1 auto;
   }
 
 }
