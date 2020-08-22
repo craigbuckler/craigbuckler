@@ -88,7 +88,7 @@ h2 {
   font-weight: normal;
   padding: 0.2em 0.3em 0.3em 0.2em;
   line-height: 1;
-  border-right: 4px solid #89b0ae;
+  border-right: 5px solid #89b0ae;
   background-color: #ffd6ba;
   clip-path: polygon(0% 0%, 100% 8%, 100% 92%, 0% 100%);
 }
@@ -251,11 +251,11 @@ a:hover::before, a:active::before, a:focus::before {
 .contact svg {
   width: 2em;
   fill: #2f333e;
-  transition: fill 0.6s linear;
+  transition: fill 0.4s linear;
 }
 
 .contact a:hover svg, .contact a:focus svg, .contact a:active svg {
-  fill: #000;
+  fill: blue;
 }
 
 header .contact {
