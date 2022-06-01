@@ -18,7 +18,7 @@ You may have bumped into me on [SitePoint.com](https://www.sitepoint.com/author/
 
 ## [✨ Hire me!](https://craigbuckler.com/)
 
-I'm availble for full-stack web development, product design, training, mentoring, or writing. My technical skills include web performance, accessibility, progressive enhancement, progressive web apps, real-time apps (web sockets), browser APIs, and more. My stack includes these technologies and more...
+I'm availble for full-stack web development, product design, training, mentoring, or writing. My technical skills include web performance, accessibility, web components, progressive enhancement, progressive web apps, real-time apps (web sockets), browser APIs, and more. My stack includes these technologies and more...
 
 ![HTML5](https://img.shields.io/badge/HTML-%23ffffff.svg?logo=HTML5&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS-%23ffffff.svg?logo=CSS3&logoColor=1572b6&style=flat-square)
@@ -33,33 +33,21 @@ I'm availble for full-stack web development, product design, training, mentoring
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23ffffff.svg?logo=PostgreSQL&logoColor=336791&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23ffffff.svg?logo=MongoDB&logoColor=47a248&style=flat-square)
 
+<img src="https://github-readme-stats.vercel.app/api?username=craigbuckler&show_icons=true&count_private=true" />
+
 Contact me [💬 on Twitter @craigbuckler](https://twitter.com/craigbuckler) or find other options at [craigbuckler.com](https://craigbuckler.com/).
 
 ---
 
-## 💻 Recent work
+## 💻 Featured projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=craigbuckler&show_icons=true&count_private=true" style="vertical-align:top;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigbuckler&layout=compact" />
-
-Featured projects...
-
-### [🐳 Docker for Web Developers](https://dockerwebdev.com/)
-
-A book, video course, and website for anyone who has struggled to understand how Docker can benefit their web development projects.
-
-### [🌍 Improve access by 700% with the JavaScript Internationalization API](https://youtu.be/1r7Uh2mYh_Q)
-
-A full tutorial explaining how to internationalize web applications first shown at the [TechExeter 2021 conference](https://conference.techexeter.uk/).
-
-### [🦕 A first look at Deno](https://www.youtube.com/watch?v=JEv4qntldi8)
-
-An overview of the new JavaScript runtime first shown at the [TechExeter 2020 conference](https://conference.techexeter.uk/).
+Open source projects include:
 
 ### [📷 progressive-image.js](https://github.com/craigbuckler/progressive-image.js)
 
-A popular blurred-thumbnail-lazy-loading-image library.\
-[![GitHub stars](https://img.shields.io/github/stars/craigbuckler/progressive-image.js?label=stars&logo=Github&style=flat-square)](https://github.com/craigbuckler/progressive-image.js)
+A popular blurred-thumbnail-lazy-loading-image library.
 
+[![GitHub stars](https://img.shields.io/github/stars/craigbuckler/progressive-image.js?label=stars&logo=Github&style=flat-square)](https://github.com/craigbuckler/progressive-image.js)
 
 ### [🔧 datalist-ajax](https://github.com/craigbuckler/datalist-ajax)
 
@@ -69,7 +57,16 @@ A fast HTML5 Ajax-powered auto-complete `<select>`-like web component.
 
 Playable on mobile or desktop with a keyboard, mouse, joystick, or touchscreen controls ([view the repository](https://github.com/craigbuckler/asteroids)).
 
-### 🖊️ Writing
+
+## 🖊️ Writing
+
+**[🐳 Docker for Web Developers](https://dockerwebdev.com/)** is my book, video course, and website for anyone who has struggled to understand how Docker can benefit their web development projects.
+
+Recent SitePoint books include:
+
+* [Node.js Novice to Ninja](https://www.sitepoint.com/premium/books/node-js-novice-to-ninja/)
+* [Jump Start Web Performance](https://amzn.to/3rbzeWt), and
+* [contributions to many more](https://www.amazon.co.uk/shop/craigbuckler/list/29PJSZAWX0MOA).
 
 Recent tutorials at sites including [SitePoint.com](https://www.sitepoint.com/author/craig-buckler/), [Kinsta](https://kinsta.com/blog/author/craigbuckler/), and [Open Relay](https://blog.openreplay.com/authors/craig-buckler):
 
@@ -84,10 +81,17 @@ Recent tutorials at sites including [SitePoint.com](https://www.sitepoint.com/au
 * [How to Use WordPress as a Headless CMS for Eleventy](https://www.sitepoint.com/wordpress-headless-cms-eleventy/)
 * [Core Web Vitals: A Guide to Google's Web Performance Metrics](https://www.sitepoint.com/core-web-vitals/)
 
-Recent books include:
 
-* [Node.js Novice to Ninja](https://www.sitepoint.com/premium/books/node-js-novice-to-ninja/)
-* [Jump Start Web Performance](https://amzn.to/3rbzeWt), and
-* [contributions to many more](https://www.amazon.co.uk/shop/craigbuckler/list/29PJSZAWX0MOA).
+## 🎤 Speaking
 
-[![Hire Craig Buckler](https://readme-typing-svg.herokuapp.com?font=Arial&height=30&size=20&vCenter=true&color=58a6ff&lines=Hire+me+for+your+next+web+project...;Contact+me+today...)](https://craigbuckler.com/)
+Recent conference talks include...
+
+### [🌍 Improve access by 700% with the JavaScript Internationalization API](https://youtu.be/1r7Uh2mYh_Q)
+
+A full tutorial explaining how to internationalize web applications first shown at the [TechExeter 2021 conference](https://conference.techexeter.uk/).
+
+### [🦕 A first look at Deno](https://www.youtube.com/watch?v=JEv4qntldi8)
+
+An overview of the new JavaScript runtime first shown at the [TechExeter 2020 conference](https://conference.techexeter.uk/).
+
+[![Hire Craig Buckler](https://readme-typing-svg.herokuapp.com?font=Arial&height=50&size=20&vCenter=true&color=58a6ff&lines=Hire+me+for+your+next+web+project...;Contact+me+today...)](https://craigbuckler.com/)
