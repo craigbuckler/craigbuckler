@@ -1,7 +1,7 @@
 # Hello! I'm Craig Buckler👋
 
 [![GitHub](https://img.shields.io/github/followers/craigbuckler?logo=github&label=GitHub&style=flat)](https://github.com/sponsors/craigbuckler)
-[![Twitter](https://img.shields.io/twitter/follow/craigbuckler?logo=twitter&label=Twitter&style=flat)](https://twitter.com/craigbuckler)
+[![X.com](https://img.shields.io/twitter/follow/craigbuckler?logo=x&label=.com&style=flat)](https://x.com/craigbuckler)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/craigbuckler?logo=reddit&label=reddit&style=flat)](https://www.reddit.com/user/craigbuckler)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/craigbuckler)
 
@@ -12,7 +12,7 @@
 
 I'm a freelance UK full-stack web developer and writer.
 
-You may have bumped into me on [SitePoint.com](https://www.sitepoint.com/author/craig-buckler) or [Twitter](https://twitter.com/craigbuckler). Find out more below or visit [craigbuckler.com](https://craigbuckler.com/).
+You may have bumped into me on [SitePoint.com](https://www.sitepoint.com/author/craig-buckler) or [X.com](https://x.com/craigbuckler). Find out more below or visit [craigbuckler.com](https://craigbuckler.com/).
 
 ---
 
@@ -35,7 +35,7 @@ I'm availble for full-stack web development, product design, training, mentoring
 
 <img src="https://github-readme-stats.vercel.app/api?username=craigbuckler&show_icons=true&count_private=true" />
 
-Contact me [💬 on Twitter @craigbuckler](https://twitter.com/craigbuckler) or find other options at [craigbuckler.com](https://craigbuckler.com/).
+Contact me [💬 on X.com @craigbuckler](https://x.com/craigbuckler) or find other options at [craigbuckler.com](https://craigbuckler.com/).
 
 ---
 
@@ -65,7 +65,10 @@ Playable on mobile or desktop with a keyboard, mouse, joystick, or touchscreen c
 Recent SitePoint books include:
 
 * [Node.js Novice to Ninja](https://www.sitepoint.com/premium/books/node-js-novice-to-ninja/)
-* [Jump Start Web Performance](https://amzn.to/3rbzeWt), and
+
+  > Amazon review: *"I love this book. If you're a confident ES6 developer looking to learn or refresh your command of Node, this book hits the sweet spot. I give it my top rating."*
+
+* [Jump Start Web Performance](https://amzn.to/3XZqrJ5), and
 * [contributions to many more](https://www.amazon.co.uk/shop/craigbuckler/list/29PJSZAWX0MOA).
 
 Recent tutorials at sites including [SitePoint.com](https://www.sitepoint.com/author/craig-buckler/), [Kinsta](https://kinsta.com/blog/author/craigbuckler/), and [Open Relay](https://blog.openreplay.com/authors/craig-buckler):
@@ -73,7 +76,7 @@ Recent tutorials at sites including [SitePoint.com](https://www.sitepoint.com/au
 * [A Complete Introduction to Web Components](https://kinsta.com/blog/web-components/)
 * [How to Debug Node.js Code](https://kinsta.com/blog/node-debug/)
 * [How To Optimize CSS for Peak Site Performance](https://kinsta.com/blog/optimize-css/)
-* [Ajax Battle: XMLHttpRequest vs the Fetch API](https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api)
+* [An Introduction to Debugging in Node.js](https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/)
 * [An Introduction to JavaScript Error Handling](https://blog.openreplay.com/an-introduction-to-javascript-error-handling)
 * [The Ultimate Guide to Browser-Side Storage](https://blog.openreplay.com/the-ultimate-guide-to-browser-side-storage)
 * [An Introduction to the Rollup.js JavaScript Bundler](https://www.sitepoint.com/rollup-javascript-bundler-introduction/)
@@ -85,6 +88,10 @@ Recent tutorials at sites including [SitePoint.com](https://www.sitepoint.com/au
 ## 🎤 Speaking
 
 Recent conference talks include...
+
+### [🔒COMING SOON: "Future Web" at TechExeter on 1 November 2024](https://conference.techexeter.uk/)
+
+A selection of new browser features, tools, and techniques to revolutionize web development.
 
 ### [🌍 Improve access by 700% with the JavaScript Internationalization API](https://youtu.be/1r7Uh2mYh_Q)
 
