@@ -87,15 +87,14 @@ h2 {
   font-size: 1.6em;
   font-weight: normal;
   padding: 0.2em 0.3em 0.3em 0.2em;
-  margin-top: 1em;
   line-height: 1;
   border-right: 5px solid #89b0ae;
   background-color: #ffd6ba;
   clip-path: polygon(0% 0%, 100% 8%, 100% 92%, 0% 100%);
 }
 
-h2:first-child {
-  margin-top: 0;
+* + h2 {
+  margin-top: 1em;
 }
 
 footer h2 {
@@ -261,12 +260,6 @@ a:hover::before, a:active::before, a:focus::before {
   width: 100%;
   max-width: 200px;
   max-height: 100px;
-  filter: grayscale(1);
-  transition: filter 0.3s linear;
-}
-
-.clients svg:hover, .clients svg:focus {
-  filter: grayscale(0);
 }
 
 .contact {
