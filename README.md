@@ -10,7 +10,7 @@
 [![Leanpub](https://img.shields.io/badge/Leanpub-%23222222.svg?logo=leanpub&style=flat)](https://leanpub.com/u/craig-buckler)
 [![Gumroad shop](https://img.shields.io/badge/Gumroad-%23232c33.svg?logo=gumroad&style=flat)](https://shop.craigbuckler.com/)
 
-I'm a freelance UK full-stack web developer and writer.
+I'm a freelance UK full-stack systems developer, speaker, author, and mentor.
 
 You may have bumped into me on [SitePoint.com](https://www.sitepoint.com/author/craig-buckler) or [X.com](https://x.com/craigbuckler). Find out more below or visit [craigbuckler.com](https://craigbuckler.com/).
 
@@ -43,11 +43,21 @@ Contact me [💬 on X.com @craigbuckler](https://x.com/craigbuckler) or find oth
 
 Open source projects include:
 
-### [📷 progressive-image.js](https://github.com/craigbuckler/progressive-image.js)
+### [🌐 Publican.dev](https://publican.dev/)
+
+Publican is a simpler HTML-first static site generator for Node.js. It uses standard JavaScript template literal `${ expressions }` so there's no weird templating syntax to learn. (View on [Github](https://github.com/craigbuckler/publican) or [npm](https://www.npmjs.com/package/publican).)
+
+### [📷 progressive-image.js](https://github.com/craigbuckler/progressive-image.js) [![GitHub stars](https://img.shields.io/github/stars/craigbuckler/progressive-image.js?label=stars&logo=Github&style=flat-square)](https://github.com/craigbuckler/progressive-image.js)
 
 A popular blurred-thumbnail-lazy-loading-image library.
 
-[![GitHub stars](https://img.shields.io/github/stars/craigbuckler/progressive-image.js?label=stars&logo=Github&style=flat-square)](https://github.com/craigbuckler/progressive-image.js)
+### [💬 intl](https://craigbuckler.com/intl/)
+
+A JavaScript [Intl API](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Intl) internationalization code generator for dates, numbers, names, and more.
+
+### [⛖ Object Compare](https://objcompare.pages.dev/)
+
+A small tool that compares differences between two objects defined in either JSON or YAML format.
 
 ### [🔧 datalist-ajax](https://github.com/craigbuckler/datalist-ajax)
 
@@ -89,7 +99,7 @@ Recent tutorials at sites including [SitePoint.com](https://www.sitepoint.com/au
 
 Recent conference talks include...
 
-### [🔒COMING SOON: "Future Web" at TechExeter on 1 November 2024](https://conference.techexeter.uk/)
+### [🔮 Future Web](https://conference.techexeter.uk/)
 
 A selection of new browser features, tools, and techniques to revolutionize web development.
 
