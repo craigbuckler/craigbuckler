@@ -1,6 +1,7 @@
 # Hello! I'm Craig Buckler👋
 
 [![GitHub](https://img.shields.io/github/followers/craigbuckler?logo=github&label=GitHub&style=flat)](https://github.com/sponsors/craigbuckler)
+[![Bluesky](https://img.shields.io/twitter/follow/craigbuckler?logo=bluesky&label=Bluesky&style=flat)](https://bsky.app/profile/craigbuckler.com)
 [![X.com](https://img.shields.io/twitter/follow/craigbuckler?logo=x&label=.com&style=flat)](https://x.com/craigbuckler)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/craigbuckler?logo=reddit&label=reddit&style=flat)](https://www.reddit.com/user/craigbuckler)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/craigbuckler)
@@ -12,7 +13,7 @@
 
 I'm a freelance UK full-stack systems developer, speaker, author, and mentor.
 
-You may have bumped into me on [SitePoint.com](https://www.sitepoint.com/author/craig-buckler) or [X.com](https://x.com/craigbuckler). Find out more below or visit [craigbuckler.com](https://craigbuckler.com/).
+You may have bumped into me on [SitePoint.com](https://www.sitepoint.com/author/craig-buckler), [Bluesky](https://bsky.app/profile/craigbuckler.com), or [X.com](https://x.com/craigbuckler). Find out more below or visit [craigbuckler.com](https://craigbuckler.com/).
 
 ---
 
@@ -20,22 +21,30 @@ You may have bumped into me on [SitePoint.com](https://www.sitepoint.com/author/
 
 I'm available for full-stack web development, product design, training, mentoring, or writing. My technical skills include web performance, accessibility, web components, progressive enhancement, progressive web apps, real-time apps (web sockets), browser APIs, and more. My stack includes these technologies and more...
 
-![HTML5](https://img.shields.io/badge/HTML-%23ffffff.svg?logo=HTML5&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS-%23ffffff.svg?logo=CSS3&logoColor=1572b6&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23ffffff.svg?logo=JavaScript&logoColor=f7df1e&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-%23ffffff.svg?logo=HTML5&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-%23ffffff.svg?logo=css&logoColor=639&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript/ES6-%23ffffff.svg?logo=JavaScript&logoColor=f7df1e&style=flat-square)
 ![Web Components](https://img.shields.io/badge/Web%20Components-%23ffffff.svg?logo=WebComponents.org&logoColor=29abe2&style=flat-square)
+![Progressive Web Apps](https://img.shields.io/badge/PWA-%23ffffff.svg?logo=pwa&logoColor=5a0fc8&style=flat-square)
 ![Performance](https://img.shields.io/badge/Web%20Performance-%23ffffff.svg?logo=FastAPI&logoColor=cc0000&style=flat-square)\
 ![Node.js](https://img.shields.io/badge/Node.js-%23ffffff.svg?logo=Node.js&logoColor=393&style=flat-square)
 ![Deno](https://img.shields.io/badge/Deno-%23ffffff.svg?logo=Deno&logoColor=000&style=flat-square)
-![Eleventy](https://img.shields.io/badge/Eleventy-%23ffffff.svg?logo=Eleventy&logoColor=000&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-%23ffffff.svg?logo=Docker&logoColor=2496ed&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-%23ffffff.svg?logo=MySQL&logoColor=4479a1&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23ffffff.svg?logo=PostgreSQL&logoColor=336791&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-%23ffffff.svg?logo=MySQL&logoColor=4479a1&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23ffffff.svg?logo=MongoDB&logoColor=47a248&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-%23ffffff.svg?logo=sqlite&logoColor=003b57&style=flat-square)\
+![Eleventy](https://img.shields.io/badge/Eleventy-%23ffffff.svg?logo=Eleventy&logoColor=000&style=flat-square)
+![Publican](https://img.shields.io/badge/Publican-%23ffffff.svg?logo=Node.js&logoColor=393&style=flat-square)
+![StaticSearch](https://img.shields.io/badge/StaticSearch-%23ffffff.svg?logo=Node.js&logoColor=393&style=flat-square)
+![Amazon Web Services](https://img.shields.io/badge/AWS-%23ffffff.svg?logo=icloud&logoColor=000&style=flat-square)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-%23ffffff.svg?logo=google&logoColor=4285f4&style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23ffffff.svg?logo=cloudflare&logoColor=f6821f&style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api?username=craigbuckler&show_icons=true&count_private=true" />
 
-Contact me [💬 on X.com @craigbuckler](https://x.com/craigbuckler) or find other options at [craigbuckler.com](https://craigbuckler.com/).
+<img src="https://github-readme-stats.vercel.app/api?username=craigbuckler&show_icons=true&count_private=true" alt="Github statistics" />
+
+Contact me [💬 on Bluesky.com @craigbuckler.com](https://bsky.app/profile/craigbuckler.com), [💬 on X.com @craigbuckler](https://x.com/craigbuckler), or find other options at [craigbuckler.com](https://craigbuckler.com/).
 
 ---
 
@@ -83,7 +92,7 @@ Recent SitePoint books include:
   > Amazon review: *"I love this book. If you're a confident ES6 developer looking to learn or refresh your command of Node, this book hits the sweet spot. I give it my top rating."*
 
 * [Jump Start Web Performance](https://amzn.to/3XZqrJ5), and
-* [contributions to many more](https://www.amazon.co.uk/shop/craigbuckler/list/29PJSZAWX0MOA).
+* [contributions to others...](https://www.amazon.co.uk/shop/craigbuckler/list/29PJSZAWX0MOA)
 
 Recent tutorials at sites including [SitePoint.com](https://www.sitepoint.com/author/craig-buckler/), [Kinsta](https://kinsta.com/blog/author/craigbuckler/), and [Open Relay](https://blog.openreplay.com/authors/craig-buckler):
 
@@ -103,7 +112,7 @@ Recent tutorials at sites including [SitePoint.com](https://www.sitepoint.com/au
 
 Recent conference talks include...
 
-### [🔮 Future Web](https://conference.techexeter.uk/)
+### [🔮 Future Web](https://craigbuckler.com/techexeter24/)
 
 A selection of new browser features, tools, and techniques to revolutionize web development.
 
@@ -114,5 +123,13 @@ A full tutorial explaining how to internationalize web applications first shown 
 ### [🦕 A first look at Deno](https://www.youtube.com/watch?v=JEv4qntldi8)
 
 An overview of the new JavaScript runtime first shown at the [TechExeter 2020 conference](https://conference.techexeter.uk/).
+
+### [📄 Is PDF your best option?](https://www.youtube.com/watch?v=nF8j5Oxy_ho)
+
+An alternative proposal for lightweight, responsive, mobile friendly, distributable documents shown at FutureSync and TechExeter 2019.
+
+### [🥽 Raise your VR A-game with A-Frame](https://craigbuckler.com/vr/)
+
+A demonstration of in-browser virtual reality and augmented reality at TechExeter 2017.
 
 [![Hire Craig Buckler](https://readme-typing-svg.herokuapp.com?font=Arial&height=50&size=20&vCenter=true&color=58a6ff&lines=Hire+me+for+your+next+web+project...;Contact+me+today...)](https://craigbuckler.com/)
